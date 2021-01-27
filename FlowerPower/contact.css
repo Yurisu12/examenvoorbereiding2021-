@@ -1,0 +1,12 @@
+.H1 {
+    background-position: left;
+    display:flex
+}
+.img-map{
+    width: 400px;
+    height: 400px;
+    
+    background-position: bottom right;
+    
+    }
+    
